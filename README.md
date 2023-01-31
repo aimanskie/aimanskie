@@ -1,10 +1,8 @@
 ![Masterhead](https://www.synergisticit.com/wp-content/uploads/2021/09/Dallas-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Aiman</h1>
-<h3 align="center">A career change Software Developer and I have found my calling in coding.</h3>
+<h3 align="center">I just love Javascript, its like a superpower, it never dissapoints, it will always creep when we thought it can't, would love to learn and stretch JS beyond..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimanskie&label=Profile%20views&color=0e75b6&style=flat" alt="aimanskie" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimanskie" alt="aimanskie" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/aimanskie" target="blank"><img src="https://img.shields.io/twitter/follow/aimanskie?logo=twitter&style=for-the-badge" alt="aimanskie" /></a> </p>
 
